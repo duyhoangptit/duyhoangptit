@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoang Ta Duy</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/duyhoangptit?label=Abuanwar072&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/duyhoangptit?logo=GitHub&style=for-the-badge)
 
 - 🔭 I’m currently working on [TakeIn](https://takein.com/), [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
