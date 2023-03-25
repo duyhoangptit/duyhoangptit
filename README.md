@@ -66,4 +66,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duyhoangptit&show_icons=true" alt="tiger" /></p>
 
 ### Preview
-![Resume Screenshot](img.png)
+![Resume Screenshot](download.png)
