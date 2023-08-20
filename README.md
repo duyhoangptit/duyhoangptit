@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang Ta Duy</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+<h3 align="center">A self-taught programmer and I've been through a lot of mistakes</h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/duyhoangptit?logo=GitHub&style=for-the-badge)
 
