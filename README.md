@@ -1,37 +1,90 @@
-<h1 align="center">Hi 👋, I'm Ta Duy Hoang (Alex)</h1>
-<h3 align="center">A FullStack And Technical Leader at FPT Software</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duyhoangptit&label=Profile%20views&color=0e75b6&style=flat" alt="duyhoangptit" /> </p>
+# Hi, I'm Ta Duy Hoang (Alex) 👋
 
-- 🔭 I’m currently working on **Global Healthcare Center**
+### Technical Leader · Full-Stack Software Engineer
 
-- 🌱 I’m currently learning **Flutter, Swift**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=11%2B+years+building+software%2C+5%2B+years+leading+teams;Java+%7C+Golang+%7C+Angular+%7C+React+%7C+Vue;Banking+%7C+Telecom+%7C+Healthcare+%7C+Logistics+%7C+Insurance" alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/duyhoangptit](https://github.com/duyhoangptit)
+<img src="https://komarev.com/ghpvc/?username=duyhoangptit&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-- 💬 Ask me about **I'm full stack developer and technical leader work at FPT Software**
+</div>
 
-- 📫 How to reach me **duyhoangptit@gmail.com**
+---
 
-- 📄 Know about my experiences [Microservices with Saga pattern using eventuate tram saga or axon framework.](Microservices with Saga pattern using eventuate tram saga or axon framework.)
+### 🧭 About Me
 
-- ⚡ Fun fact **I think I am funny, work very hard and get more new technology everyday.**
+- 🚀 **Technical Leader** with **11+ years** of software engineering experience, including **5+ years** leading engineering teams
+- 🏗️ I design and lead delivery of large-scale, distributed systems — microservices, event-driven architecture, and the Saga pattern (Eventuate Tram / Axon Framework)
+- 🏦 Deep domain experience across **Banking & Finance, Telecom, Healthcare, Logistics, and Insurance**
+- 🌱 Currently exploring **Flutter** and **Swift**
+- 💬 Happy to talk about system design, microservices, engineering leadership, and full-stack architecture
+- 📫 Reach me at **duyhoangptit@gmail.com**
+- ⚡ Fun fact: I think I'm funny, I work hard, and I chase new technology every day
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/user27662930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user27662930" height="30" width="40" /></a>
-<a href="https://fb.com/hoangptit94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoangptit94" height="30" width="40" /></a>
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+<p> <img src="https://skillicons.dev/icons?i=java,go,ts,js,angular,react,vue,nodejs,express" /> </p>
+
+**Cloud, DevOps & Infrastructure**
+
+<p> <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,nginx,grafana" /> </p>
+
+**Data & Messaging**
+
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,mariadb,oracle,redis,kafka,rabbitmq,elasticsearch,kibana" /> </p>
+
+**Tools & Testing**
+
+<p> <img src="https://skillicons.dev/icons?i=git,postman,jest,figma" /> </p>
+
+---
+
+### 🏆 Domain Expertise
+
+<p>
+<img src="https://img.shields.io/badge/Banking%20%26%20Finance-0E75B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Telecom-0E75B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Healthcare-0E75B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Logistics-0E75B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Insurance-0E75B6?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/duyhoangptit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="duyhoangptit" /></a><a href="https://ko-fi.com/duyhoangptit"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="duyhoangptit" /></a></p><br><br>
+### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duyhoangptit&show_icons=true&locale=en&layout=compact" alt="duyhoangptit" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=duyhoangptit&show_icons=true&theme=default&hide_border=true&count_private=true" alt="duyhoangptit's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyhoangptit&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duyhoangptit&show_icons=true&locale=en" alt="duyhoangptit" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=duyhoangptit&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duyhoangptit&" alt="duyhoangptit" /></p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=duyhoangptit&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
 
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+<a href="https://github.com/duyhoangptit" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/user27662930" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+<a href="mailto:duyhoangptit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://fb.com/hoangptit94" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+### ☕ Support
+
+<p align="left">
+<a href="https://www.buymeacoffee.com/duyhoangptit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="190" alt="buymeacoffee" /></a>
+<a href="https://ko-fi.com/duyhoangptit" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" width="190" alt="kofi" /></a>
+</p>
