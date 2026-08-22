@@ -24,6 +24,10 @@ Technical Leader with **11+ years** in software engineering and **5+ years** lea
 
 **[vetautet-app](https://github.com/duyhoangptit/vetautet-app)** — High-performance service on Spring Boot 4.1 / JDK 21, demonstrating Kafka, Redis, MinIO, and PostgreSQL patterns for high-throughput workloads.
 
+**[notification-platform](https://github.com/duyhoangptit/notification-platform)** — High-performance service on Spring Boot 4.1 / JDK 21, demonstrating Kafka, Redis, MinIO, and PostgreSQL patterns for high-throughput workloads.
+
+**[identity-service](https://github.com/duyhoangptit/identity-service)** — High-performance service on Spring Boot 4.1 / JDK 21, demonstrating Kafka, Redis, MinIO, and PostgreSQL patterns for high-throughput workloads.
+
 ---
 
 ### Tech Stack
